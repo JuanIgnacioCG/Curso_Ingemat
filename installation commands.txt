@@ -1,0 +1,5 @@
+conda create --name entorno_curso python=3.9
+conda activate entorno_curso
+conda install -c conda-forge jupyterlab
+
+jupyter-lab --notebook-dir "D:\OneDrive - Universidad Politécnica de Madrid\2_Tareas\20221121_curso_ingemat\Curso_Ingemat" 
