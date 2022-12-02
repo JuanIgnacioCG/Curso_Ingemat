@@ -1,0 +1,29 @@
+Data needed for c_CNN_intro https://upm365-my.sharepoint.com/:u:/g/personal/juanignacio_caballero_upm_es/EcYSNi7Edr1HovJ2PuNpLngBwV47zOxIgQFCDrWf-apngA?e=Z7PUDP
+
+
+Powerpoint Image for material science: https://upm365-my.sharepoint.com/:p:/g/personal/juanignacio_caballero_upm_es/EZnytq8XaMZPiO03jXWjArABM7Y2cVrmNJ6bW8VLR3OIPg?e=Xeqaar
+
+
+### Books to learn:
+
+Learn python:
+https://upm365-my.sharepoint.com/:p:/g/personal/juanignacio_caballero_upm_es/EZnytq8XaMZPiO03jXWjArABM7Y2cVrmNJ6bW8VLR3OIPg?e=Xeqaar
+
+https://upm365-my.sharepoint.com/:b:/g/personal/juanignacio_caballero_upm_es/EYlkvmrmNc1BhD7HdXb71jwBpB3aVqjR8vD9mb9sTooNqg?e=DBG7AS
+
+
+Learn: deep learning
+very good one for code> https://upm365-my.sharepoint.com/:b:/g/personal/juanignacio_caballero_upm_es/ETOoB6rNBZJHinHFqUqahVABFEiKFcSU16IBs_eMrG-v8A?e=TAHWk0
+
+
+good one for theory:
+https://upm365-my.sharepoint.com/:b:/g/personal/juanignacio_caballero_upm_es/EQHp1ZyMC_lEnBcamwl48iMBDayWD9TuAlc7Cspx7xLPjg?e=yqorrQ
+
+pytorch https://upm365-my.sharepoint.com/:b:/g/personal/juanignacio_caballero_upm_es/ETjjNlcWEftFk57KseVQGgIBzehPppiETimo6H8Pc0DWsw?e=hOfDX5
+
+
+
+## External info:
+DotCSV youtube channel https://www.youtube.com/@DotCSV
+
+Must-read blog: https://www.enriquedans.com/
